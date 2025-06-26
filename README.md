@@ -14,7 +14,6 @@
 
 - Chrome DevTools
 - PageSpeed Insights
-- GTmetrix
 - GitHub
 
 ## Автор
